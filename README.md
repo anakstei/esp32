@@ -1,3 +1,3 @@
 # ESP32
 
-Repository tentang contoh-contoh project ESP32 
+Repository ini berisi contoh-contoh project ESP32 
